@@ -22,4 +22,4 @@ _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This
 
 ## 💫 Deploy
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/49ca68d9-5e3a-44e9-83c4-429f53e94c70/deploy-status)](https://app.netlify.com/sites/jamstack-brest-demo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4482f50a-dd9d-4249-898c-f7b7739ba40e/deploy-status)](https://app.netlify.com/sites/jamstack-brest-demo/deploys)
