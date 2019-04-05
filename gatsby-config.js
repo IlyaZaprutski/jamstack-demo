@@ -6,7 +6,7 @@ const proxy = require('http-proxy-middleware');
 
 module.exports = {
     siteMetadata: {
-        title: 'iTechArt JAMstack Demo',
+        title: 'iTechArt Brest JAMstack Demo',
         author: 'Ilya Zaprutski',
         description: 'A starter blog demonstrating what Gatsby can do.',
         siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
