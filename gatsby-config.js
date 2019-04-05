@@ -9,7 +9,7 @@ module.exports = {
         title: 'iTechArt JAMstack Demo',
         author: 'Ilya Zaprutski',
         description: 'A starter blog demonstrating what Gatsby can do.',
-        siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
+        siteUrl: 'https://jamstack-brest-demo.netlify.com/',
     },
 
     developMiddleware: (app) => {
